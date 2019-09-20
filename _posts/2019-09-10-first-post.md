@@ -2,6 +2,7 @@
 layout: post
 title: "목록"
 date: 2019-09-10 22:43:15 -0400
+cover:  "/assets/instacode.png"
 ---
 
 ##공부 할 것
