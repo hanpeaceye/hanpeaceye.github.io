@@ -53,6 +53,9 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
+  - cat: Study
+    desc: "공부한 것 남겨놓자"
+
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
 
@@ -75,12 +78,12 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
-    desc: Follow me on Twitter
-    share: false
+  # - name: Twitter
+  #   icon: twitter
+  #   username: TheBenCentra
+  #   url: https://twitter.com/TheBenCentra
+  #   desc: Follow me on Twitter
+  #   share: false
 
   - name: Facebook
     icon: facebook
@@ -96,12 +99,12 @@ social:
     desc: Don't fork me on GitHub
     share: true
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-    desc: Connect with me on LinkedIn
-    share: false
+  # - name: LinkedIn
+  #   icon: linkedin
+  #   username: Ben Centra
+  #   url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+  #   desc: Connect with me on LinkedIn
+  #   share: false
 
   - name: Google+
     icon: google-plus
