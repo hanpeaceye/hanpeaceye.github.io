@@ -53,11 +53,6 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Study
-    desc: "공부한 것 남겨놓자"
-
-  - cat: none
-    desc: ""
 
   - cat: jekyll
     desc: "Posts describing Jekyll setup techniques."
