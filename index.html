@@ -16,6 +16,7 @@ pagination:
 
 <div class="wrapper">
 <ul class="post-list">
+  {{ paginator.total_posts }}
   {% for post in paginator.posts %}
   <li>
     <h2>
