@@ -14,7 +14,7 @@ subtitle: "가 되기 위하여... 기본부터 제대로 하자"
 email: hanpeaceyee@daum.net
 name: hanpeace
 description: >
-  description 영역인데 생각나면 쓰자. 소름인데?
+  description 영역인데 생각나면 쓰자. 하나더!
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -34,6 +34,7 @@ pagination:
   enabled: true
   per_page: 5
   permalink: "/page/:num/"
+  collection: 'posts'
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
